@@ -1,0 +1,17 @@
+h1 {
+  /*using color names*/
+  /*color:blue;*/
+  /*rgb*/
+  color: rgb(20, 20, 18);
+}
+body {
+  background-color: rgb(14, 237, 204);
+}
+
+div {
+  color: white;
+  height: 200px;
+  width: 200px;
+  opacity: 1;
+   background-color:rgb(255, 0, 0);
+}
