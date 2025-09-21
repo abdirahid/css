@@ -1,13 +1,24 @@
 h1{
-    color:red;
+    border: solid;
+    color: blue;
+font-size:50px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+border-width: 20px;
 }
 div{
-    color: rgb(8, 194, 101);
+    color:blue;
     font-size: 30px;
-    border: dashed;
+    border: double;
 }
+
 span{
-    color:red;
-    font-size: 30px;
-    border:dotted;
+    color:rgb(86, 226, 43)
+    background-color:brown
+}
+.Paragraph-1{
+    color:green
+}
+.Paragraph-2{
+    color: orange
+    
 }
