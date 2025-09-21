@@ -1,0 +1,13 @@
+h1{
+    color:red;
+}
+div{
+    color: rgb(8, 194, 101);
+    font-size: 30px;
+    border: dashed;
+}
+span{
+    color:red;
+    font-size: 30px;
+    border:dotted;
+}
