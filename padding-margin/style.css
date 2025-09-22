@@ -1,14 +1,15 @@
 div{
     border: solid;
-    color: rgb(28, 13, 231);
+    
     font-size: 20px;
     background-color: rgb(241, 141, 17);
-    padding: 20px 10px;
-    display: inline-block;
+    padding: 20px 20px;
+      display:inline-block;
+    color: rgb(28, 13, 231);
     height: 250px;
     width: 250;
-    margin:20px
-    border:solid; red
-    
+    margin:20px;
+    border:solid; red;
+
 
 }
