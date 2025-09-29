@@ -1,0 +1,11 @@
+div{
+    display: inline-block;
+    padding: 20px;
+    border: solid blue;
+    width: 200px;
+    height: 40px;
+    margin: top 20px;
+}
+.center{
+    display:flex;
+}

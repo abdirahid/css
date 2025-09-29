@@ -1,0 +1,43 @@
+body{
+    font-size: 20px;
+    background-color: rgb(142, 155, 155);
+}
+h1,h2,h3 header{
+    color: blue;
+    font-size: 40px;
+    background-color: rgb(42, 242, 242);
+}
+p{
+    color:rgb(247, 240, 240);
+    background-color: rgb(22, 10, 10);
+    width: 300px;
+    height: ;
+text-align: center;
+}
+
+.Green{
+    color:green;
+    background-color: yellow;
+    width: 300px;
+    height: auto;
+    text-align: center;
+}
+.red{
+    color: rgb(248, 240, 240);
+    background-color: orange;
+     width: 300px;
+    height: auto
+}
+.yellow{
+    color:rgb(17, 11, 3);
+    background-color: aqua;
+     width: 300px;
+    height: auto;
+    text-align:center;
+}
+p span{
+    color:aqua
+}
+#Four{
+    color:rgb(27, 30, 23)
+}

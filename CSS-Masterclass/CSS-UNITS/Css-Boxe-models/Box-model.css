@@ -1,0 +1,38 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+.container{
+    font-size: 1.5em;
+    border: 5px solid grey;
+    margin: 1.5em;
+    padding: 1em;
+   margin-right: 2em;
+   margin-left: 2em;
+   margin-bottom: 2em;
+   background-color: rgb(230, 224, 216);
+    outline: 5px solid red;
+}
+.article{
+    
+    padding-bottom: 1em;
+}
+.circle{
+    margin: 3rem auto;
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    border: 6px solid red;
+    border-radius: 50px;
+    outline: 10px solid yellow;
+    outline-offset: 0.5rem
+
+    
+}
