@@ -1,0 +1,31 @@
+body{
+    font-size: 30px;
+    line-height: 2rem;
+    font-family: robtoto san serif;
+}
+
+p{
+    background-color: aqua;
+    width: 100%;
+    
+}
+
+    
+
+.oposite{
+display: inline-block;
+    background-color: #ac1414;
+    padding: 4rem;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+    text-align: right;
+background-color: bisque;
+margin: 0px;
+
+
+
+
+}
