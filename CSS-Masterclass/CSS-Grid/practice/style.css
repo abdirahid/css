@@ -1,0 +1,13 @@
+
+  .grid-container {
+    display: grid;
+    grid-template-areas:
+      "header header"
+      "sidebar content"
+      "footer footer";
+    grid-template-columns: 200px 1fr 1f;
+    grid-template-rows: 100px 50px
+    gap: 10px;
+    height: 100vh;
+  }
+  

@@ -1,0 +1,56 @@
+body{
+    font-size: 1.5rem;
+    font-family: roboto;
+    min-height: 200vh;
+
+}
+
+.outer-container{
+    border: 3px dashed green;
+    width: 75vw;
+    height:85vh;
+    margin: 200px auto;
+    
+}
+
+
+.inner-container{
+
+    border:2px solid red;
+width: 40vw;
+height:50vh;
+margin: 200px auto;
+
+
+}
+.box{
+width: 150px;
+height: 150px;
+color: #fff;
+padding: 1rem;
+
+}
+.absolute{
+    background-color: red;
+    position: absolute;
+    top: 0px;
+    left:0 30px;
+    margin: 50px;
+
+}
+
+.Relative{
+    background-color: green;
+    position: relative;
+    left: 178px;
+}
+.fixed{
+    background-color: aqua;
+    position:fixed;
+    margin: 20pxx;
+    margin-bottom: 5
+}
+.stiky{
+    background-color: blueviolet;
+    position: 20;
+    

@@ -1,0 +1,16 @@
+*{
+    font-size: 1.5rem;
+    color: rgb(255, 0, 34);
+}
+
+
+
+
+
+.columns{
+    column-rule: 13;
+    column-width: 250px;
+    column-rule: 3px solid #3333;
+    column-gap:3rem;
+    break-before: column ;
+}
